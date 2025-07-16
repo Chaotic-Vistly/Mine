@@ -1,0 +1,9 @@
+{
+    "balance": 13475.16,
+    "currency": "BGN",
+    "stocks": {
+        "rapple": 10,
+        "Google": 3,
+        "Nvidia": 3
+    }
+}
