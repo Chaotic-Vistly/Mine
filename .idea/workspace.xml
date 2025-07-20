@@ -5,27 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c78a9ca7-1f8f-42d7-9161-de4efad805bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Mine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CameraNumberDetect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chaos status.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Checkers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Daily tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Guess the number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Monty Hall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/monster gacha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/number generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopping list tk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Build dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CameraNumberDetect.py" beforeDir="false" afterPath="$PROJECT_DIR$/CameraNumberDetect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feedback_log.csv" beforeDir="false" afterPath="$PROJECT_DIR$/feedback_log.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Chaotic-Vistly&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Chaotic-Vistly/Mine.git&quot;,
+    &quot;accountId&quot;: &quot;73b89fd1-02b8-4ba8-93fa-a5b54965a977&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -53,6 +49,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.Build dataset.executor&quot;: &quot;Run&quot;,
     &quot;Python.Calc.executor&quot;: &quot;Run&quot;,
     &quot;Python.CameraNumberDetect.executor&quot;: &quot;Run&quot;,
     &quot;Python.Chaos status.executor&quot;: &quot;Run&quot;,
@@ -74,8 +71,10 @@
     &quot;Python.shopping list tk.executor&quot;: &quot;Run&quot;,
     &quot;Python.smth.executor&quot;: &quot;Run&quot;,
     &quot;Python.task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train_model.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -86,7 +85,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.CameraNumberDetect">
-    <configuration name="Calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Build dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mine" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Build dataset.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shopping list tk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="train_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mine" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,7 +186,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shopping list tk.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,10 +198,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.CameraNumberDetect" />
+        <item itemvalue="Python.train_model" />
+        <item itemvalue="Python.Build dataset" />
         <item itemvalue="Python.Stonks (1)" />
         <item itemvalue="Python.Stonks" />
-        <item itemvalue="Python.Calc" />
-        <item itemvalue="Python.shopping list tk" />
       </list>
     </recent_temporary>
   </component>
